@@ -5,5 +5,4 @@
      بخش تصاویر
      بخش تخصص
      بخش ارتباط
-# --------
-# Programmed in: <a href="telegram.me/MirTM"><h1>@MiRtm</h1></a>
+# Programmed in: @MiRtm
