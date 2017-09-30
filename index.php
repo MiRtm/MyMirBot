@@ -379,5 +379,5 @@ if($data == 'pic3'){
     ]);
     }
 
-// *Debugged* , *Opened* & *Wroted* By @MiRstudy :)
+// *Debugged* , *Opened* & *Wroted* By @MiRtm :)
 ?>
